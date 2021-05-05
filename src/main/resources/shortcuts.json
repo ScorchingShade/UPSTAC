@@ -1,0 +1,13 @@
+[
+  {
+    "Doctor": {
+      "getForConsultations": "#445114",
+      "getForDoctor": "#445113",
+      "assignForConsultation" : "#445112",
+      "updateConsultation" : "#445111"
+    },
+    "Tester": {
+      "getForTester": "#445115"
+    }
+  }
+]
